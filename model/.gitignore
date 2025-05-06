@@ -1,0 +1,6 @@
+# Ignore model files - they should be downloaded separately
+distilbert-base-uncased-finetuned-sst2/
+*/*.bin
+*/*.json
+*/*.safetensors
+*/*.txt
